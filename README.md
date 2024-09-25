@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**I'm Binish Patel**
+- *Currently*: M.S. in ECE student at Georgia Tech, Director of Projects at MTC GaTech 
+- *Previously*: B.S. in CompE at Georgia Tech, SWE intern at MerchantE
+
+## :computer: I'm Currently Learning
+**Georgia Tech**
+- ECE7750 Mathemathical Foundations of Machine Learning
+- ECE6250 Digital Signal Processing
+- ECE6001 Technology Entrepreneur
+- ECE6607 Computer Communication Networks
+
