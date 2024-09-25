@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - ECE6001 Technology Entrepreneur
 - ECE6607 Computer Communication Networks
 
+### :rose: About Me
+- *Interests*: Baking, working out, reading, coding
+- *Current read*: Educated by Tara Westover
