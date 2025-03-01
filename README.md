@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 
 ## :computer: I'm Currently Learning
 **Georgia Tech**
-- ECE7750 Mathemathical Foundations of Machine Learning
-- ECE6250 Digital Signal Processing
-- ECE6001 Technology Entrepreneur
-- ECE6607 Computer Communication Networks
+- ECE6612 Computer Networks
+- ECE8803 Fundamentals of Machine Learning
+- ECE6254 Statistical Machine Learning
+- ECE6272 Fundamentals of Radar Signal Processing
 
 ### :rose: About Me
 - *Interests*: Baking, working out, reading, coding
-- *Current read*: Educated by Tara Westover
