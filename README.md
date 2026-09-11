@@ -15,15 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **I'm Binish Patel**
-- *Currently*: M.S. in ECE student at Georgia Tech, Director of Projects at MTC GaTech 
-- *Previously*: B.S. in CompE at Georgia Tech, SWE intern at MerchantE
-
-## :computer: I'm Currently Learning
-**Georgia Tech**
-- ECE6612 Computer Networks
-- ECE8803 Fundamentals of Machine Learning
-- ECE6254 Statistical Machine Learning
-- ECE6272 Fundamentals of Radar Signal Processing
+- *Experience*:
+  - SWE @ Uber
+  - M.S. in Electrical and Computer Engineering @ Georgia Tech
+  - B.S. in Computer Engineering @ Georgia Tech
+  - SWE intern at MerchantE E-commerce solutions
 
 ### :rose: About Me
 - *Interests*: Baking, working out, reading, coding
